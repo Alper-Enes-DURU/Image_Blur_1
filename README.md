@@ -1,2 +1,2 @@
 # Image_Blur_1
-Array Manupulation on Ruby.
+An Array Manupulation on Ruby.
